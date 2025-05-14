@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/kevin-de-la-colina/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/kevin-de-la-colina/)
 
 - 💬 Ask me about **Wordpress, Low level programming and Git**
 
